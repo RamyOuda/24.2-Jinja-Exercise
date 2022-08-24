@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+button,
+p,
+a,
+form input {
+  margin: 10px 0px 10px 20px;
+}
+
+input {
+  display: block;
+  height: 25px;
+  padding: 0 0 0 5px;
+}
+
+button {
+  padding: 8px 20px;
+}
+
+a,
+p {
+  font-size: 25px;
+}
+
+p {
+  width: 500px;
+  margin-bottom: 100px;
+}
